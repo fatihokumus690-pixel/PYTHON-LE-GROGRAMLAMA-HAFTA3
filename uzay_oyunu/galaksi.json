@@ -1,0 +1,12 @@
+{
+  "gezegenler": ["dünya", "centauri", "sirius", "orion", "kara_delik"],
+  "baglantilar": {
+    "dünya": ["centauri", "sirius"],
+    "centauri": ["dünya", "orion"],
+    "sirius": ["dünya", "kara_delik"],
+    "orion": ["centauri", "kara_delik"],
+    "kara_delik": ["sirius", "orion"]
+  },
+  "baslangic": "dünya",
+  "yakit": 100
+}
