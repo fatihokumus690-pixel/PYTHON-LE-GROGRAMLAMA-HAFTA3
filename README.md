@@ -1,4 +1,4 @@
-# Hafta 3 - Fonksiyonlar Derinlemesine
+# Hafta 5- Fonksiyonlar Derinlemesine
 
 İleri Python Programlama Dersi - Hafta 3 Lab Ödevi
 
